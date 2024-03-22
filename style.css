@@ -1,4 +1,16 @@
-    html,
+  .swiper-container {
+  width: 640px;  
+  height: 400px
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+<style>
+   html,
     body{
       height: 100%;
       font-size: 15px;
